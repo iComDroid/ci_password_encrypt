@@ -1,4 +1,5 @@
 # This is remote directry from Other User
 * Author Remote User
-## Milan Thapa
+## Milan
+### Git and Github Training
 ## Genese Cloud Academy
